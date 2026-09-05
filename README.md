@@ -10,9 +10,8 @@ The prototype reuses the current Open Book brand assets and theme CSS from `port
 
 Current property-detail links continue to open the production property pages.
 
-## Files
+## Publishing
 
-- `index.html` — the complete guided investor experience
-- `.github/workflows/pages.yml` — optional GitHub Pages deployment workflow
+The site is a plain static `index.html` at the repository root. GitHub Pages should publish from the `main` branch and `/(root)`.
 
 The production repository itself is not modified by this prototype.
